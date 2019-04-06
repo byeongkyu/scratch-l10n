@@ -1,5 +1,5 @@
 {
-    "wedo2.headerText": "{wedo2Link}は、インタラクティブなロボットや他の(ほかの)作品(さくひん)を作る(つくる)ために使う(つかう)ことができる、ものづくり入門(にゅうもん)キットです。ScratchのプログラミングブロックをLEGO WeDoの作品(さくひん)と連携(れんけい)させて、アニメーションやサウンドを追加(ついか)することができます。",
+    "wedo2.headerText": "{wedo2Link}は、インタラクティブなロボットと他（ほか）の作品（さくひん）が制作可能（せいさくかのう）な「ものづくり入門（にゅうもん）キット」です。ScratchのプログラミングブロックをWeDo 2.0の作品（さくひん）と連携（れんけい）させて、アニメーションやサウンドを追加（ついか）することができます。 ",
     "wedo2.gettingStarted": "さあ、はじめましょう",
     "wedo2.connectingWedo2": "WeDo 2.0をScratchに接続(せつぞく)する",
     "wedo2.useScratch3": " {scratch3Link} エディタをつかいます。",
@@ -29,7 +29,7 @@
     "wedo2.updateLinkText": "Scratch Linkの最新版(さいしんばん)を使用(しよう)していることを確認(かくにん)してください。",
     "wedo2.legacyInfoTitle": "Scratch 2.0をつかっていますか?",
     "wedo2.legacyInfoText": "{wedoLegacyLink}のページをみてください。",
-    "wedo2.legacyLinkText": "Scratch 2.0でLEGO WeDoをつかう",
+    "wedo2.legacyLinkText": "Scratch 2.0でWeDoをつかう ",
     "wedo2.imgAltWeDoIllustration": "傾き(かたむき)センサーとモーターがついたWeDo2のイラスト",
     "wedo2.imgAltStarter1Pet": "犬とタコスのScratchプロジェクト",
     "wedo2.imgAltStarter2Fox": "キツネが前後(ぜんご)に動く(うごく)Scratchプロジェクト",
