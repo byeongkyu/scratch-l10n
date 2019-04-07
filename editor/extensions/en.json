@@ -205,6 +205,7 @@
     "edubot.setStep": "move by step left [L_STEP] and right [R_STEP]",
     "edubot.setVelocity": "move by velocity left [L_VEL] and right [R_VEL]",
     "edubot.setDistance": "move by distance left [L_DIST] and right [R_DIST]",
+    "edubot.setRotation": "rotate by angle [ROTATE_ANGLE]",
     "edubot.moveForward": "move forward",
     "edubot.moveBackward": "move backward",
     "edubot.stop": "stop",

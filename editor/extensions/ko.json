@@ -205,6 +205,7 @@
     "edubot.setStep": "왼쪽 바퀴 [L_STEP] 오른쪽 바퀴 [R_STEP] 스텝만큼 이동",
     "edubot.setVelocity": "왼쪽 바퀴 [L_VEL] 오른쪽 바퀴 [R_VEL] 속도로 이동",
     "edubot.setDistance": "왼쪽 바퀴 [L_DIST] 오른쪽 바퀴 [R_DIST] 거리만큼 이동",
+    "edubot.setRotation": "[ROTATE_ANGLE]만큼 회전",
     "edubot.moveForward": "앞으로 가기",
     "edubot.moveBackward": "뒤로 가기",
     "edubot.stop": "정지하기",
