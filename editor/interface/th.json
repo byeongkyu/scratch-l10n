@@ -116,7 +116,6 @@
     "gui.menuBar.remix": "รีมิกซ์",
     "gui.menuBar.new": "ใหม่",
     "gui.menuBar.file": "แฟ้ม",
-    "gui.menuBar.uploadFromComputer": "อัปโหลดจากคอมพิวเตอร์ของคุณ",
     "gui.menuBar.downloadToComputer": "บันทึกลงในคอมพิวเตอร์ของคุณ",
     "gui.menuBar.edit": "แก้ไข",
     "gui.menuBar.turboModeOff": "ปิดโหมดเทอร์โบ",
@@ -195,7 +194,7 @@
     "gui.stageSelector.addBackdropFromFile": "อัปโหลดฉากหลัง",
     "gui.stageSelector.stage": "เวที",
     "gui.stageSelector.backdrops": "ฉากหลัง",
-    "gui.telemetryOptIn.label": "Report statistics to improve Scratch",
+    "gui.telemetryOptIn.label": "รายงานสถิติเพื่อพัฒนาปรับปรุง Scratch",
     "gui.telemetryOptIn.body1": "The Scratch Team is always looking to better understand how Scratch is used around the world. To help support this effort, you can allow Scratch to automatically send usage information to the Scratch Team.",
     "gui.telemetryOptIn.body2": "The information we collect includes language selection, blocks usage, and some events like saving, loading, and uploading a project. We DO NOT collect any personal information. Please see our {privacyPolicyLink} for more information.",
     "gui.telemetryOptIn.privacyPolicyLink": "นโยบายความเป็นส่วนตัว",
@@ -352,9 +351,12 @@
     "gui.extension.microbit.connectingMessage": "กำลังเชื่อมต่อ",
     "gui.extension.ev3.description": "สร้างหุ่นยนต์โต้ตอบและอื่นๆ",
     "gui.extension.ev3.connectingMessage": "กำลังเชื่อมต่อ ตรวจสอบให้แน่ใจว่าขาของ EV3 ตั้งไว้ที่ 1234",
+    "gui.extension.boost.description": "Bring robotic creations to life.",
+    "gui.extension.boost.connectingMessage": "Connecting",
     "gui.extension.wedo2.description": "สร้างด้วยมอเตอร์และเซนเซอร์",
     "gui.extension.wedo2.connectingMessage": "กำลังเชื่อมต่อ",
-    "gui.extension.boost.description": "Bring robotic creations to life.",
+    "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
+    "gui.extension.gdxfor.connectingMessage": "Connecting",
     "gui.libraryTags.all": "ทั้งหมด",
     "gui.libraryTags.animals": "สัตว์",
     "gui.libraryTags.dance": "การเต้นรำ",
@@ -405,5 +407,6 @@
     "gui.sharedMessages.costume": "คอสตูม{index}",
     "gui.sharedMessages.sprite": "สไปรต์{index}",
     "gui.sharedMessages.pop": "ป๊อบ",
-    "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?"
+    "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
+    "gui.sharedMessages.loadFromComputerTitle": "Load from your computer"
 }
